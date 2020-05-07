@@ -1,0 +1,3 @@
+/home/francisco/CLionProjects/metaballs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/francisco/CLionProjects/metaballs/cmake-build-debug/CMakeFiles/metaballs.dir
+/home/francisco/CLionProjects/metaballs/cmake-build-debug/CMakeFiles/edit_cache.dir

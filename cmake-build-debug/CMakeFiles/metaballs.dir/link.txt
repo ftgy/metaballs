@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/metaballs.dir/main.cpp.o CMakeFiles/metaballs.dir/shader.cpp.o CMakeFiles/metaballs.dir/circle.cpp.o CMakeFiles/metaballs.dir/grid.cpp.o CMakeFiles/metaballs.dir/cell.cpp.o  -o metaballs -lglfw3 -lGLEW -lGL -lX11 -ldl -lpthread 

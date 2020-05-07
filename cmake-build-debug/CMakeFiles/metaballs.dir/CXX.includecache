@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/francisco/CLionProjects/metaballs/cell.h
+glm/glm.hpp
+-
+
+/home/francisco/CLionProjects/metaballs/grid.cpp
+grid.h
+/home/francisco/CLionProjects/metaballs/grid.h
+
+/home/francisco/CLionProjects/metaballs/grid.h
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+GL/glew.h
+-
+vector
+-
+cell.h
+/home/francisco/CLionProjects/metaballs/cell.h
+

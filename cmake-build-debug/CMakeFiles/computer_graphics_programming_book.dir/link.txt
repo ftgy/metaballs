@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/computer_graphics_programming_book.dir/main.cpp.o CMakeFiles/computer_graphics_programming_book.dir/shader.cpp.o  -o computer_graphics_programming_book -lglfw3 -lGLEW -lGL -lX11 -ldl -lpthread 

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="metaballs" targetName="metaballs" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fb4e445-086f-4aa7-9e5e-63e6191877e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1bPwsLqAmGvEPU7s75r5OC2IJTv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="metaballs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="metaballs" TARGET_NAME="metaballs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="metaballs" RUN_TARGET_NAME="metaballs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fb4e445-086f-4aa7-9e5e-63e6191877e4" name="Default Changelist" comment="" />
+      <created>1588547241475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588547241475</updated>
+      <workItem from="1588547243105" duration="16099000" />
+      <workItem from="1588629400851" duration="5141000" />
+      <workItem from="1588677736998" duration="17587000" />
+      <workItem from="1588768784710" duration="9831000" />
+      <workItem from="1588800655112" duration="8692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="751" y="296" key="#xdebugger.evaluate" timestamp="1588730593150">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="751" y="296" key="#xdebugger.evaluate/67.27.1853.1053@67.27.1853.1053" timestamp="1588730593150" />
+    <state width="534" height="526" key="DebuggerActiveHint" timestamp="1588770086659">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="534" height="526" key="DebuggerActiveHint/67.27.1853.1053@67.27.1853.1053" timestamp="1588770086659" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1588784184880">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1588784184880" />
+    <state width="1807" height="238" key="GridCell.Tab.0.bottom" timestamp="1588866449080">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="238" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1588866449080" />
+    <state width="1807" height="238" key="GridCell.Tab.0.center" timestamp="1588866449079">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="238" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1588866449079" />
+    <state width="1807" height="238" key="GridCell.Tab.0.left" timestamp="1588866449079">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="238" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1588866449079" />
+    <state width="1807" height="238" key="GridCell.Tab.0.right" timestamp="1588866449079">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="238" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1588866449079" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1588859394939">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1588859394939" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1588859394938">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1588859394938" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1588859394938">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1588859394938" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1588859394938">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1588859394938" />
+    <state x="641" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1588843093443">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="641" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588843093443" />
+    <state x="738" y="194" width="501" height="716" key="refactoring.ChangeSignatureDialog" timestamp="1588843752048">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="738" y="194" width="501" height="716" key="refactoring.ChangeSignatureDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588843752048" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1588778807231">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1588778807231" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>49</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
